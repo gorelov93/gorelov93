@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vitaly GORELOV
-- 👀 I’m interested in developing the electronic structure codes for quantum Monte Carlo (QMC), GW and Bethe Salpeter (BSE).
+- 👀 I’m interested in developing the electronic structure codes and post-processing tools for quantum Monte Carlo (QMC), GW and Bethe Salpeter (BSE).
 - 📫 How to reach me 19gorelov93@gmail.com
 
 <!---
